@@ -35,7 +35,7 @@ This analysis serves as a foundational exercise in statistical reasoning, regres
 
 🛠️ Tools & Libraries
 
-    Python 3.11
+    Python 3.11.6
 
     Libraries:
 
